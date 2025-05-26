@@ -1,20 +1,19 @@
 package mapTest;
 
 import static org.junit.Assert.*;
-
 import java.util.Random;
 import java.util.UUID;
 import java.util.Set;
-
 import org.junit.Test;
-
 import mapas.GestorNotas;
 
 /**
  * Conjunto de pruebas unitarias para la clase GestorNotas.
  * <p>
- * Cada prueba está documentada con Javadoc para describir su propósito,
- * los escenarios evaluados y los resultados esperados.
+ * 
+ * @author Aarón Rojas
+ * @version 1.0
+ * 
  */
 public class GestorNotasTest {
 

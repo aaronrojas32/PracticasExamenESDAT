@@ -11,8 +11,9 @@ import org.junit.Test;
 /**
  * Pruebas unitarias para la gestión de rutas de autobús entre ciudades.
  * <p>
- * Se valida la inserción de tramos y la obtención de paradas intermedias
- * entre un origen y un destino en un entorno de ciudades reales.
+ * 
+ * @author Aaron Rojas
+ * @version 1.0
  */
 public class GestorRutasTest {
 

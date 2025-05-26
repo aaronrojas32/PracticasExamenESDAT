@@ -11,8 +11,9 @@ import org.junit.Test;
 /**
  * Pruebas unitarias para la clase de gestorPrerequisitos.
  * <p>
- * Se valida la inserción y actualización de relaciones prerequisito,
- * así como la obtención de la cadena de cursos necesarios para cursar uno dado.
+ * 
+ * @author Aaron Rojas
+ * @version 1.0
  */
 public class GestorPrerequisitosTest {
 
